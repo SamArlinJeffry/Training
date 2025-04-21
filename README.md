@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SamArlinJeffry/Training/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamArlinJeffry/Training/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SamArlinJeffry/Training/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SamArlinJeffry/Training/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamArlinJeffry/Training/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamArlinJeffry/Training/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Quickselect
 |  |
 | ------- |
