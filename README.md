@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SamArlinJeffry/Training/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/SamArlinJeffry/Training/tree/master/0367-valid-perfect-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SamArlinJeffry/Training/tree/master/1965-sum-of-digits-in-base-k) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamArlinJeffry/Training/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SamArlinJeffry/Training/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamArlinJeffry/Training/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SamArlinJeffry/Training/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
