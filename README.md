@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SamArlinJeffry/Training/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SamArlinJeffry/Training/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -52,6 +53,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SamArlinJeffry/Training/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
