@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SamArlinJeffry/Training/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/SamArlinJeffry/Training/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamArlinJeffry/Training/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SamArlinJeffry/Training/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/SamArlinJeffry/Training/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/SamArlinJeffry/Training/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SamArlinJeffry/Training/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/SamArlinJeffry/Training/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
