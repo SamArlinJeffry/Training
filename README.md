@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SamArlinJeffry/Training/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamArlinJeffry/Training/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
+| [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SamArlinJeffry/Training/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/SamArlinJeffry/Training/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SamArlinJeffry/Training/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
