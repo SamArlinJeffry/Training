@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SamArlinJeffry/Training/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SamArlinJeffry/Training/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamArlinJeffry/Training/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SamArlinJeffry/Training/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
