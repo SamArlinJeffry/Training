@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SamArlinJeffry/Training/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamArlinJeffry/Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/SamArlinJeffry/Training/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamArlinJeffry/Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SamArlinJeffry/Training/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamArlinJeffry/Training/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
