@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SamArlinJeffry/Training/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/SamArlinJeffry/Training/tree/master/0367-valid-perfect-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SamArlinJeffry/Training/tree/master/1965-sum-of-digits-in-base-k) |
+| [2556-convert-the-temperature](https://github.com/SamArlinJeffry/Training/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamArlinJeffry/Training/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
