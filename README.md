@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamArlinJeffry/Training/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SamArlinJeffry/Training/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/SamArlinJeffry/Training/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SamArlinJeffry/Training/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamArlinJeffry/Training/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamArlinJeffry/Training/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/SamArlinJeffry/Training/tree/master/2454-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
