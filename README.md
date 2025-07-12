@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/SamArlinJeffry/Training/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SamArlinJeffry/Training/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamArlinJeffry/Training/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0682-baseball-game](https://github.com/SamArlinJeffry/Training/tree/master/0682-baseball-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SamArlinJeffry/Training/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SamArlinJeffry/Training/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SamArlinJeffry/Training/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SamArlinJeffry/Training/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SamArlinJeffry/Training/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
