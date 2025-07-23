@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SamArlinJeffry/Training/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SamArlinJeffry/Training/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/SamArlinJeffry/Training/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SamArlinJeffry/Training/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SamArlinJeffry/Training/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SamArlinJeffry/Training/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamArlinJeffry/Training/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SamArlinJeffry/Training/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
