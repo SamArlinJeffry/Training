@@ -156,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/SamArlinJeffry/Training/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/SamArlinJeffry/Training/tree/master/0185-department-top-three-salaries) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/SamArlinJeffry/Training/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [3530-odd-and-even-transactions](https://github.com/SamArlinJeffry/Training/tree/master/3530-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
