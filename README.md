@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SamArlinJeffry/Training/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SamArlinJeffry/Training/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SamArlinJeffry/Training/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/SamArlinJeffry/Training/tree/master/0367-valid-perfect-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SamArlinJeffry/Training/tree/master/1965-sum-of-digits-in-base-k) |
 | [2491-smallest-even-multiple](https://github.com/SamArlinJeffry/Training/tree/master/2491-smallest-even-multiple) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SamArlinJeffry/Training/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/SamArlinJeffry/Training/tree/master/0231-power-of-two) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SamArlinJeffry/Training/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Dynamic Programming
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SamArlinJeffry/Training/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/SamArlinJeffry/Training/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SamArlinJeffry/Training/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SamArlinJeffry/Training/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
