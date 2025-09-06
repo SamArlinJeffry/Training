@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SamArlinJeffry/Training/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/SamArlinJeffry/Training/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamArlinJeffry/Training/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/SamArlinJeffry/Training/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SamArlinJeffry/Training/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/SamArlinJeffry/Training/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamArlinJeffry/Training/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SamArlinJeffry/Training/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamArlinJeffry/Training/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SamArlinJeffry/Training/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Number Theory
