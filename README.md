@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SamArlinJeffry/Training/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/SamArlinJeffry/Training/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SamArlinJeffry/Training/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamArlinJeffry/Training/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SamArlinJeffry/Training/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamArlinJeffry/Training/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/SamArlinJeffry/Training/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SamArlinJeffry/Training/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SamArlinJeffry/Training/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SamArlinJeffry/Training/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamArlinJeffry/Training/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0682-baseball-game](https://github.com/SamArlinJeffry/Training/tree/master/0682-baseball-game) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SamArlinJeffry/Training/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SamArlinJeffry/Training/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SamArlinJeffry/Training/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/SamArlinJeffry/Training/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamArlinJeffry/Training/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SamArlinJeffry/Training/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/SamArlinJeffry/Training/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
