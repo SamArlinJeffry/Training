@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SamArlinJeffry/Training/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/SamArlinJeffry/Training/tree/master/0367-valid-perfect-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SamArlinJeffry/Training/tree/master/1965-sum-of-digits-in-base-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/SamArlinJeffry/Training/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/SamArlinJeffry/Training/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/SamArlinJeffry/Training/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SamArlinJeffry/Training/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SamArlinJeffry/Training/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/SamArlinJeffry/Training/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/SamArlinJeffry/Training/tree/master/0682-baseball-game) |
+| [2288-count-operations-to-obtain-zero](https://github.com/SamArlinJeffry/Training/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/SamArlinJeffry/Training/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
